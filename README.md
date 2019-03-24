@@ -1,2 +1,2 @@
-# YoutubeButtonNavi
-JavaFX application that aids challenged people navigate youtube 
+# youtube-button-navi
+JavaFX application that aids challenged people navigate youtube
